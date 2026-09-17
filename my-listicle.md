@@ -9,4 +9,4 @@ In this game, you have to use sticks to hit the drums 🥁.  This game is really
 Highly recommend for people who also want to learn the drums, as this is the rhythm game that is most similar to the actual instrument that it's based on. 
 
 ## Phigros
-![Phigros](https://tenor.com/mYJE2B1Q4Yv.gif)
+![Phigros](gif/phigros-rythm-game.gif)
